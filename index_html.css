@@ -1,0 +1,48 @@
+h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
+a { color:#5D5D9E; }
+a:visited { color:#5D5D9E; }
+a:active { color:#5C615E; }
+a:hover { color:#B2B3B4; }
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+#container_3e575098 { vertical-align: top; position:relative; display: inline-block; width:80%; min-height:413px; max-width:100%; background-color:#FFFFFF; background-image: url(image/chsrc.png); background-position:center left; background-size:cover;  }
+#container_3e575098_padding { margin: 10px; display: block;  }
+.textstyle2 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#container_1f421e47 { vertical-align: top; position:relative; display: inline-block; width:80%; min-height:150px; max-width:100%; background-color:#FFFFFF;  }
+#container_1f421e47_padding { margin: 10px; display: block;  }
+.textstyle3 { text-align:left; }
+.textstyle4 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#000000; line-height: 1.5;  }
+#container_74cc30ce { vertical-align: top; position:relative; display: inline-block; width:79%; min-height:292px; background:none;  }
+#container_74cc30ce_padding { margin: 10px; display: block;  }
+.textstyle5 { font-size:12pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#000000; line-height: 1.5;  }
+.textstyle6 { font-size:12pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#000000; font-weight:bold; line-height: 1.5;  }
+.ulstyle1 { margin:0; font-size: 12pt; color:#5D5D9E;  }
+#container_50443472 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:278px; max-width:100%; background-color:#5492B4;  }
+#container_50443472_padding { margin: 10px; display: block;  }
+#heading_36175d75 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:22pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; text-align:left; font-weight:bold;  }
+#anchor_58465b21 { vertical-align: bottom; position:relative; display: inline-block;  }
+#text_5f88a5e0 { position:absolute; left:40%; top:35%; width:339px; height:53px; background:none;  }
+.textstyle7 { font-size:18pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#FF8080;  }
+.textstyle8 { font-size:18pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#000000;  }
+.textstyle9 { font-size:18pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#FFFFFF;  }
+#text_6d1ec1f3 { position:absolute; left:27%; top:52%; width:800px; height:51px; background:none;  }
+.textstyle10 { font-size:18pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#FF8040;  }
+#container_7c6af539 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:299px; max-width:100%; background-color:rgba(35, 35, 35, 0.898039);  }
+#container_7c6af539_padding { margin: 10px; display: block;  }
+#heading_1bdf4e8c { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:22pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; text-align:left; font-weight:bold;  }
+#text_22f72509 { position:absolute; left:42%; top:41%; width:263px; height:53px; background:none;  }
+.textstyle11 { font-size:18pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#C81E1E;  }
+#text_1f43b43a { position:absolute; left:34%; top:58%; width:552px; height:51px; background:none;  }
+#container_55665f04 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:278px; max-width:100%; background-color:#ECEBEC;  }
+#container_55665f04_padding { margin: 10px; display: block;  }
+#heading_4789644e { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:22pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#404040; text-align:left; font-weight:bold;  }
+#anchor_6511bd12 { vertical-align: bottom; position:relative; display: inline-block;  }
+#text_35965677 { position:absolute; left:36%; top:55%; width:512px; height:33px; background:none;  }
+.textstyle12 { font-size:18pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#404040;  }
+.textstyle13 { font-size:18pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#4F3E52;  }
+#text_371c8eaf { position:absolute; left:42%; top:36%; width:263px; height:42px; background:none;  }
+#container_4b4e21bc { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:101px; max-width:100%; background-color:rgba(21, 21, 21, 0.898039);  }
+#container_4b4e21bc_padding { margin: 10px; display: block;  }
+#heading_15f9c727 { vertical-align: bottom; position:relative; display: inline-block; background:none;  }
+.textstyle14 { text-align:left;display: block }
+.textstyle15 { font-size:18pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; font-weight:bold; line-height: 1.5;  }
